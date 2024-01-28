@@ -1,0 +1,5 @@
+ec\edu\espol\buscaminas\App.class
+ec\edu\espol\controller\BuscaminasController.class
+ec\edu\espol\model\Tablero.class
+module-info.class
+ec\edu\espol\model\Casilla.class
